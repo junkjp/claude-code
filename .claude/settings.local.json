@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(gh auth *)",
+      "PowerShell($tmpFile = \"C:\\\\Users\\\\junkj\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Temp-claude-code\\\\4037a92a-ee1d-4d98-b2e3-4c45f151b7ec\\\\scratchpad\\\\pages.json\"; gh api repos/junkjp/claude-code/pages --method POST --input $tmpFile)"
+    ]
+  }
+}
